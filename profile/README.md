@@ -1,3 +1,5 @@
+![Bellus Banner 2](https://user-images.githubusercontent.com/69381903/174571665-ff3fc2b2-93b0-4bb5-92bc-bc5cb267a860.png)
+
 <div align="center">
   Introducing pet cuteness into the plain world of Discord.
 </div>
