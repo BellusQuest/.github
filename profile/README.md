@@ -18,4 +18,4 @@ blend of roleplaying games, these features includes:
 
 ### 📦 How can I install Bellus?
 
-Bellus is still under active development and will be coming to Discord servers soon!
+Bellus is still under active development and will be coming to Discord servers soon! There are technical and developer preview versions available on the official Discord server @ https://discord.gg/4GuRCdKfSS.
